@@ -172,7 +172,7 @@ namespace SharpScreenGrab
 /_______  /|___|  (____  /__|  |   __/_______  /\___  >__|    \___  >\___  >___|  /\______  /__|  (____  /___  /
         \/      \/     \/      |__|          \/     \/            \/     \/     \/        \/           \/    \/ ");
             Console.WriteLine("");
-            Console.WriteLine("By @ceramicskate0");
+            Console.WriteLine("CeramicSkate0");
         }
 
         private static void Usage()
