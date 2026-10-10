@@ -8,7 +8,7 @@ Screencapture education poc for use in CobaltStrike .net exec methods
  /        \|   Y  \/ __ \|  | \/  |_> >        \  \___|  | \/\  ___/\  ___/|   |  \    \_\  \  | \// __ \| \_\ \
 /_______  /|___|  (____  /__|  |   __/_______  /\___  >__|    \___  >\___  >___|  /\______  /__|  (____  /___  /
         \/      \/     \/      |__|          \/     \/            \/     \/     \/        \/           \/    \/
-By @ceramicskate0       
+Updated by @ceramicskate0       
 ```
 ## Usage:
             Commands:
